@@ -11,30 +11,29 @@ ______________
 
 _____
 
-## Проекты
+## Учебные проекты
 
-• разработка стратегии тестирования [Rocket chat](https://www.rocket.chat/), создание Use Cases, тест-кейсов,  отчета в TestIT и проведение функционального тестирования приложения.
+• [разработка](https://github.com/LemAnna/Anna_Bogdanova_QA/tree/master/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B4%D0%BB%D1%8F%20www.rocket.chat%20%D0%BF%D1%80.11) стратегии тестирования [Rocket chat](https://www.rocket.chat/), создание Use Cases, тест-кейсов,  отчета в TestIT и проведение функционального тестирования приложения.
 
-• создание тестовой документации в TestIT (тест-кейсы, баг-репорты, отчет) и тестирование [Swagger](https://fakerestapi.azurewebsites.net/index.html), тестирование в Postman с формированием отчета по тестированию
+• [создание](https://github.com/LemAnna/Anna_Bogdanova_QA/tree/master/API%20Swagger%20%D0%BF%D1%80.7%D0%B3%D1%80) тестовой документации в TestIT (тест-кейсы, баг-репорты, отчет) и тестирование [Swagger](https://fakerestapi.azurewebsites.net/index.html), тестирование в Postman с формированием отчета по тестированию
 
-• создание тестовых сценариев в Notion и тест-кейсов в TestIT для раздела -"Ручные тесты" сервиса [TestIT](https://id.testit.software/workspaces) 
+• [создание](https://github.com/LemAnna/Anna_Bogdanova_QA/tree/master/%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B%2C%20%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20id.testit.softwareworkspaces%20%D0%BF%D1%80.4%D0%B3%D1%80) тестовых сценариев в Notion и тест-кейсов в TestIT для раздела -"Ручные тесты" сервиса [TestIT](https://id.testit.software/workspaces) 
 
-• создание запросов SQL в сервисе [https://www.w3schools.com/sql](https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in)  по заданным описаниям
+• [создание](https://github.com/LemAnna/Anna_Bogdanova_QA/tree/master/SQL%20%D0%BF%D1%80.10%D0%B3%D1%80) запросов SQL в сервисе [https://www.w3schools.com/sql](https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in)  по заданным описаниям
 
-• создание в TestIT тестового набора для тестирования мобильного приложения "tutu", проведение тестов для нативной и web-версии с отчетами о результатах тестирования
+• [создание](https://github.com/LemAnna/Anna_Bogdanova_QA/tree/master/%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%BC%D0%BE%D0%B1.%20tutu%20%D0%BF%D1%80.9) в TestIT тестового набора для тестирования мобильного приложения "tutu", проведение тестов для нативной и web-версии с отчетами о результатах тестирования
 
-• тестирование в DevTools официального сайта [СберМегаМаркет](https://sbermegamarket.ru/), составление баг-репортов по найденным ошибкам
+• [тестирование](https://github.com/LemAnna/Anna_Bogdanova_QA/blob/master/%D0%91%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B%20DevTools%20%D0%BF%D1%80.8%D0%B3%D1%80.md) в DevTools официального сайта [СберМегаМаркет](https://sbermegamarket.ru/), составление баг-репортов по найденным ошибкам
 
-• Use Cases для модального окна авторизации [https://sbermarket.ru/](https://sbermarket.ru/)
+• [Use Cases](https://github.com/LemAnna/Anna_Bogdanova_QA/blob/master/Use%20Cases%20sbermarket.ru.%20%D0%BF%D1%80.3.md) для модального окна авторизации [https://sbermarket.ru/](https://sbermarket.ru/)
 
-• составление баг-репортов страницы авторизации [http://testingchallenges.thetestingmap.org/login/login.php](http://testingchallenges.thetestingmap.org/login/login.php)
+• [составление](https://github.com/LemAnna/Anna_Bogdanova_QA/blob/master/%D0%91%D0%B0%D0%B3-%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B%20%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.%20%D0%BF%D1%80.4.md) баг-репортов страницы авторизации [http://testingchallenges.thetestingmap.org/login/login.php](http://testingchallenges.thetestingmap.org/login/login.php)
 
-• тест-анализ в XMind для сервиса [Яндекс-маршруты](https://yandex.ru/maps/213/moscow/?ll=37.617700%2C55.755863&mode=routes&rtext=&rtt=mt&z=10)
+• [тест-анализ](https://github.com/LemAnna/Anna_Bogdanova_QA/blob/master/%D0%A2%D0%B5%D1%81%D1%82%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20(XMind).pdf) в XMind для сервиса [Яндекс-маршруты](https://yandex.ru/maps/213/moscow/?ll=37.617700%2C55.755863&mode=routes&rtext=&rtt=mt&z=10)
 
-• составление UI тест-кейсов в TestIT для главной страницы и двух первых разделов: "О продукте" и "Цена" сайта [https://testit.software/](https://testit.software/)  (главная страница и два первых раздела: "О продукте" и "Цена")
+• [составление](https://github.com/LemAnna/Anna_Bogdanova_QA/blob/master/%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B%20UI%20%D0%B4%D0%BB%D1%8F%20testit.software%20(TestIT)%20%D0%BF%D1%80.5%D0%B3%D1%80..xlsx) UI тест-кейсов в TestIT для главной страницы и двух первых разделов: "О продукте" и "Цена" сайта [https://testit.software/](https://testit.software/)  (главная страница и два первых раздела: "О продукте" и "Цена")
 
-• создание тест-кейсов для страницы авторизации сайта [Saucedemo](www.saucedemo.com), а так-же чек-листа и тест-кейсов для позитивного функционального тестирования данного сайта 
-
+• [создание](https://github.com/LemAnna/Anna_Bogdanova_QA/tree/master/%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B%2C%20%D1%87%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%D1%8B%20saucedemo.com%20%D0%BF%D1%80.2%2C%203) тест-кейсов для страницы авторизации сайта [Saucedemo](www.saucedemo.com), а так-же чек-листа и тест-кейсов для позитивного функционального тестирования данного сайта 
 __________
 
 ## Инструменты и технологии
