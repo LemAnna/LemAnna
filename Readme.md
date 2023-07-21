@@ -7,7 +7,7 @@ ______________
 
 ## My CV 
 
-[Резюме](https://ссылочку_сюда)
+[Резюме](https://drive.google.com/file/d/1Bx8GiiRhkCgzKZJt1hfqfuDatM3-Zyh1/view?usp=sharing)
 
 _____
 
