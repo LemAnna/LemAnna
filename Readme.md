@@ -7,7 +7,7 @@ ______________
 
 ## My CV 
 
-[Резюме](https://drive.google.com/file/d/1RpdyyJCc9nsG0kUH4t2-PCQRXc7qFi1x/view?usp=sharing)
+[Резюме](https://drive.google.com/file/d/1lYWhWDjcMo82v4E4MH6hR5DthUAcxZKI/view?usp=sharing)
 
 _____
 
@@ -55,6 +55,9 @@ __________
 </a>
 <a href="https://www.atlassian.com/software/jira">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Jira.png" alt="Jira" width="50" height="50" />
+</a>
+<a href="https://figma.com">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Figma.svg" alt="Figma" width="50" height="50" /> 
 </a>
 </p>
 
